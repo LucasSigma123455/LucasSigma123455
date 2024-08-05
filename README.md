@@ -9,4 +9,5 @@ Meu nome é lucas ramon
 
   Meu email é: 00001109550467sp@al.educacao.sp.gov.br
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F211136-adventure-time-snail-gif&psig=AOvVaw2MwWQ4-86mHEm4AC9nrj5J&ust=1722944433560000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPDzid3i3YcDFQAAAAAdAAAAABAg](link)
+![![  image       ](https://github.com/user-attachments/assets/69487c3b-4586-445e-aadb-3d660d351631)
+](link)
