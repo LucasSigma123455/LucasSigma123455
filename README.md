@@ -9,5 +9,4 @@ Meu nome é lucas ramon
 
   Meu email é: 00001109550467sp@al.educacao.sp.gov.br
 
-![![  image       ](https://github.com/user-attachments/assets/69487c3b-4586-445e-aadb-3d660d351631)
-](link)
+![https://images.app.goo.gl/t8pQJHeKJUZnyQVg6]()
